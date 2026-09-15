@@ -1,17 +1,7 @@
 # zunda-notes
 
-「ずんだもんAI」YouTube動画の概要欄に貼るための、Gemini Notebook（NotebookLM）読み込み用テキストを配信する最小構成の静的サイト。
+「ずんだもんAI」の動画解説をGemini Notebook（NotebookLM）に貼るための原文一覧です。
+動画のタイトルの下にあるURLをコピーして、Gemini Notebookの「ソースを追加」に貼ってください。
 
-## 使い方
-
-`public/n/<番号>.txt` に動画ごとの解説マークダウンを置く。ビルド不要で、Cloudflare Pagesがそのまま配信する。
-
-```
-https://zunda-notes.pages.dev/n/1.txt
-```
-
-## デプロイ
-
-```
-npx wrangler pages deploy public --project-name=zunda-notes
-```
+## 『本は消える。でも小説は残る。』
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/1.txt`
