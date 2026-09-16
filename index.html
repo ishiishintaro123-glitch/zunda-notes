@@ -115,18 +115,38 @@
 </main>
 
 <script>
+function flashButton(btn, label) {
+  var original = btn.textContent;
+  btn.textContent = label;
+  btn.dataset.copied = 'true';
+  setTimeout(function () {
+    btn.textContent = original;
+    btn.dataset.copied = 'false';
+  }, 1500);
+}
+
+function selectText(el) {
+  var range = document.createRange();
+  range.selectNodeContents(el);
+  var sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+}
+
 document.querySelectorAll('button.copy').forEach(function (btn) {
   btn.addEventListener('click', function () {
     var target = document.getElementById(btn.dataset.target);
     var text = target.textContent.trim();
+    if (!navigator.clipboard || !navigator.clipboard.writeText) {
+      selectText(target);
+      flashButton(btn, '選択しました');
+      return;
+    }
     navigator.clipboard.writeText(text).then(function () {
-      var original = btn.textContent;
-      btn.textContent = 'コピーしました';
-      btn.dataset.copied = 'true';
-      setTimeout(function () {
-        btn.textContent = original;
-        btn.dataset.copied = 'false';
-      }, 1500);
+      flashButton(btn, 'コピーしました');
+    }).catch(function () {
+      selectText(target);
+      flashButton(btn, '選択しました');
     });
   });
 });
