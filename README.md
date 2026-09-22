@@ -6,3 +6,6 @@ Gemini Notebookにソースとして追加すると、その動画についてAI
 
 ## 『本は消える。でも小説は残る。』＃1
 `https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/1.txt`
+
+## 『3万のPCでClaude Codeに動画を作らせてみた』＃2
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/2.txt`
