@@ -12,3 +12,6 @@ Gemini Notebookにソースとして追加すると、その動画についてAI
 
 ## 『Claude Codeで、無料で使える作品投稿サイトを作った』＃3
 `https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/3.txt`
+
+## 『小説・漫画・イラストを載せる自分のサイト、無料で作れます』＃4
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/4.txt`
