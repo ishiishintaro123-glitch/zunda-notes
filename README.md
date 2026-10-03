@@ -21,3 +21,6 @@ Gemini Notebookにソースとして追加すると、その動画についてAI
 
 動画で紹介したテンプレートの手順書（AIに読み込ませる用にまとめたもの）：
 `https://raw.githubusercontent.com/ishiishintaro123-glitch/creator-site-template-ja/main/guide-for-ai.txt`
+
+## 『AIを使ったこと、隠してない？　AIシェイムの正体』＃6
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/6.txt`
