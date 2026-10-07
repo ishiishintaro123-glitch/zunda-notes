@@ -1,6 +1,6 @@
 # zunda-notes
 
-「ずんだもんAIチャンネル」の動画内容をまとめたマークダウン文章のURL一覧です。
+「しんたろうノベル」の動画内容をまとめたマークダウン文章のURL一覧です。
 Gemini Notebookにソースとして追加すると、その動画についてAIと対話しながら深掘りできます。
 気になる動画のタイトルを見つけたら、下のURLをコピーしてGemini Notebookの「ソースを追加」に貼ってください。
 
@@ -24,3 +24,6 @@ Gemini Notebookにソースとして追加すると、その動画についてAI
 
 ## 『AIを使ったこと、隠してない？　AIシェイムの正体』＃6
 `https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/6.txt`
+
+## 『高性能PCはいらなかった。2万円台の中古PC＋ChromeOS Flex』＃7
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/7.txt`
