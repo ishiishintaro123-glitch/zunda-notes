@@ -27,3 +27,6 @@ Gemini Notebookにソースとして追加すると、その動画についてAI
 
 ## 『高性能PCはいらなかった。2万円台の中古PC＋ChromeOS Flex』＃7
 `https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/7.txt`
+
+## 『AIの人格がなくなる？ChatGPTが未成年に制限をかけた理由』＃8
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/8.txt`
