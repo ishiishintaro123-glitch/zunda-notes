@@ -30,3 +30,6 @@ ChatGPTやGeminiなどURLを読み込めるAIに渡すと、その動画につ�
 
 ## 『AIの人格がなくなる？ChatGPTが未成年に制限をかけた理由』＃8
 `https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/8.txt`
+
+## 『OpenAIとAnthropicが準備する「AIで社会が止まる日」。私たちにできること』＃9
+`https://raw.githubusercontent.com/ishiishintaro123-glitch/zunda-notes/master/n/9.txt`
