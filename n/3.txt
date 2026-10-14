@@ -74,9 +74,9 @@
 
 ## 使ってみたい人へ
 
-- テンプレート（ひな形）：https://github.com/ishiishintaro123-glitch/creator-site-template-ja
-- 立ち上げ方や使い方は、テンプレートの中の「手順書」にまとめてある：https://github.com/ishiishintaro123-glitch/creator-site-template-ja/blob/main/手順書/README.md
-- 手順書をまとめてAIに読み込ませるためのファイル：https://raw.githubusercontent.com/ishiishintaro123-glitch/creator-site-template-ja/main/guide-for-ai.txt
+- テンプレート（ひな形）：https://github.com/shintaronovel/creator-site-template-ja
+- 立ち上げ方や使い方は、テンプレートの中の「手順書」にまとめてある：https://github.com/shintaronovel/creator-site-template-ja/blob/main/手順書/README.md
+- 手順書をまとめてAIに読み込ませるためのファイル：https://raw.githubusercontent.com/shintaronovel/creator-site-template-ja/main/guide-for-ai.txt
 - テンプレートを使う人は、Claude Codeもプログラムの知識もいらない。作品の投稿は、ブラウザの編集画面で行う
 - 使うには、GitHubとCloudflareのアカウント（どちらも無料プランでよい）が要る
 

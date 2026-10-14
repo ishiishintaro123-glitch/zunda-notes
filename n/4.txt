@@ -60,8 +60,8 @@
 
 ## 使ってみたい人へ
 
-- テンプレート（ひな形）：https://github.com/ishiishintaro123-glitch/creator-site-template-ja
-- 立ち上げ方や使い方は、テンプレートの中の「手順書」にまとめてある：https://github.com/ishiishintaro123-glitch/creator-site-template-ja/blob/main/手順書/README.md
+- テンプレート（ひな形）：https://github.com/shintaronovel/creator-site-template-ja
+- 立ち上げ方や使い方は、テンプレートの中の「手順書」にまとめてある：https://github.com/shintaronovel/creator-site-template-ja/blob/main/手順書/README.md
 
 ## よくある質問
 

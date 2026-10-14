@@ -59,9 +59,9 @@
 ## 困ったら（手順書とAI）
 
 - 細かい手順は「手順書」にまとめてある。ひな形のGitHubのページにある「手順書」というフォルダで、自分のリポジトリにも同じものが入っている
-  - 手順書：https://github.com/ishiishintaro123-glitch/creator-site-template-ja/blob/main/手順書/README.md
+  - 手順書：https://github.com/shintaronovel/creator-site-template-ja/blob/main/手順書/README.md
 - 分からないところは、手順書をAIに読み込ませて質問できる。Gemini Notebook（無料）なら、ノートブックの「ソースを追加」に次のURLを貼る（手順書の全ページをまとめたもの）
-  - https://raw.githubusercontent.com/ishiishintaro123-glitch/creator-site-template-ja/main/guide-for-ai.txt
+  - https://raw.githubusercontent.com/shintaronovel/creator-site-template-ja/main/guide-for-ai.txt
 - 答えを手順書に沿わせるための「カスタム指示」の文も、手順書の「AIに聞く」に載っている
 - AIの答えは間違っていることがある。手順書と違うときは、手順書のほうが正しい
 
